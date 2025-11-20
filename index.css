@@ -1,0 +1,1874 @@
+.homepage1-container1 {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.homepage1-homepage1 {
+  width: 100%;
+  height: 3527px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: flex-start;
+  background-color: rgba(105, 8, 8, 1);
+}
+ 
+.homepage1-text10 {
+  top: 280px;
+  left: 114px;
+  color: rgba(246, 223, 192, 1);
+  width: 371px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.homepage1-text11 {
+  top: 638px;
+  left: -341px;
+  color: rgba(246, 223, 192, 1);
+  width: 186px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.homepage1-button11 {
+  gap: 10px;
+  top: 493px;
+  left: 114px;
+  width: 271px;
+  height: 56px;
+  display: flex;
+  padding: 0 10px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 20px;
+  justify-content: center;
+  background-color: rgba(255, 193, 94, 1);
+}
+ 
+.homepage1-text12 {
+  color: rgba(85, 3, 3, 1);
+  height: auto;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.homepage1-text13 {
+  top: 134px;
+  left: 112px;
+  color: rgba(246, 223, 192, 1);
+  width: 504px;
+  height: auto;
+  position: absolute;
+  font-size: 99.88557434082031px;
+  box-shadow: 0px 6.659038066864014px 63.26085662841797px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.homepage1-ellipse2 {
+  top: 287px;
+  left: 965px;
+  width: 652px;
+  height: 613px;
+  opacity: 0.10;
+  position: absolute;
+}
+ 
+.homepage1-ellipse4 {
+  top: 697px;
+  left: -139px;
+  width: 652px;
+  height: 613px;
+  opacity: 0.10;
+  position: absolute;
+}
+ 
+.homepage1-ellipse3 {
+  top: -45px;
+  left: 73px;
+  width: 652px;
+  height: 613px;
+  opacity: 0.10;
+  position: absolute;
+}
+ 
+.homepage1-rectangle133 {
+  top: 660px;
+  left: 0px;
+  width: 1440px;
+  height: 134px;
+  position: absolute;
+}
+ 
+.homepage1-image7 {
+  top: 663px;
+  left: -640px;
+  width: 337px;
+  height: 54px;
+  position: absolute;
+}
+ 
+.homepage1-image11 {
+  top: 1244px;
+  left: -1008px;
+  width: 483px;
+  height: 282px;
+  position: absolute;
+  border-radius: 36.00920486450195px;
+}
+ 
+.homepage1-image10 {
+  top: 108px;
+  left: -169px;
+  width: 1446px;
+  height: 554px;
+  position: absolute;
+}
+ 
+.homepage1-barbackground1 {
+  top: -0.6826339960098267px;
+  left: 0px;
+  width: 1440px;
+  height: 89px;
+  position: absolute;
+}
+ 
+.homepage1-barbackground2 {
+  left: -89px;
+  width: 1440px;
+  bottom: 5px;
+  height: 405px;
+  position: absolute;
+  box-shadow: 0px 4.06205940246582px 24.880111694335938px 0px rgba(0, 0, 0, 0.4000000059604645) ;
+}
+ 
+.homepage1-elements1 {
+  gap: 185px;
+  left: -335px;
+  width: 1488px;
+  bottom: 303px;
+  height: 94px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.homepage1-logo1 {
+  width: 211.7869415283203px;
+  height: 34.12123107910156px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.homepage1-navigation1 {
+  gap: 47.06376266479492px;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.homepage1-text14 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 21.178693771362305px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+ 
+.homepage1-text15 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 21.178693771362305px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+ 
+.homepage1-text16 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 21.178693771362305px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+ 
+.homepage1-text17 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 21.178693771362305px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+ 
+.homepage1-text18 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 21.178693771362305px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+ 
+.homepage1-socialicons1 {
+  width: 153px;
+  height: 35px;
+}
+ 
+.homepage1-elements2 {
+  gap: 155px;
+  top: 34px;
+  left: 1218.0810546875px;
+  width: 1121px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.homepage1-logo2 {
+  width: 180px;
+  height: 29px;
+}
+ 
+.homepage1-navigation2 {
+  gap: 40px;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.homepage1-text19 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+ 
+.homepage1-text20 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+ 
+.homepage1-text21 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+ 
+.homepage1-text22 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+ 
+.homepage1-text23 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+ 
+.homepage1-socialicons2 {
+  width: 130px;
+  height: 30px;
+}
+ 
+.homepage1-bar {
+  gap: 40.216163635253906px;
+  top: 34px;
+  left: 502px;
+  width: 676px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.homepage1-text24 {
+  color: rgba(251, 197, 42, 1);
+  height: auto;
+  font-size: 20.108081817626953px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: 28.151317596435547px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.homepage1-text25 {
+  color: rgba(251, 197, 42, 1);
+  height: auto;
+  font-size: 20.108081817626953px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: 28.151317596435547px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.homepage1-text26 {
+  color: rgba(251, 197, 42, 1);
+  height: auto;
+  font-size: 20.108081817626953px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: 28.151317596435547px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.homepage1-text27 {
+  color: rgba(251, 197, 42, 1);
+  height: auto;
+  font-size: 20.108081817626953px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: 28.151317596435547px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.homepage1-text28 {
+  color: rgba(251, 197, 42, 1);
+  height: auto;
+  font-size: 20.108081817626953px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: 28.151317596435547px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.homepage1-searchbar {
+  gap: 9.818182945251465px;
+  top: 15.199999809265137px;
+  left: 1213px;
+  width: 216px;
+  height: 57.599998474121094px;
+  display: flex;
+  padding: 9.818182945251465px;
+  position: absolute;
+  box-shadow: 0px 3.9272732734680176px 3.9272732734680176px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 19.63636589050293px;
+  justify-content: center;
+  background-color: rgba(255, 232, 196, 1);
+}
+ 
+.homepage1-text29 {
+  color: rgba(84, 11, 14, 1);
+  width: 165px;
+  height: auto;
+  font-size: 20.56581687927246px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.homepage1-group1 {
+  width: 16px;
+  height: 15.327674865722656px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.homepage1-ellipse1 {
+  top: -0.0000044389203139871825px;
+  left: 0.0002840909000951797px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+ 
+.homepage1-line1 {
+  top: 9.905908584594727px;
+  left: 10.310653686523438px;
+  width: 8px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.homepage1-image8 {
+  top: 841px;
+  left: 25px;
+  width: 542px;
+  height: 361px;
+  position: absolute;
+  border-radius: 40px;
+}
+ 
+.homepage1-text30 {
+  top: 846px;
+  color: rgba(246, 223, 192, 1);
+  right: 4px;
+  width: 598px;
+  height: auto;
+  position: absolute;
+  font-size: 99.88557434082031px;
+  box-shadow: 0px 6.659038066864014px 63.26085662841797px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.homepage1-ourtranslationstaffisavailable247toprovidesupportw {
+  top: 999px;
+  right: 41px;
+  width: 554.0001831054688px;
+  height: 75.54547119140625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.homepage1-vector100 {
+  top: 68.7840576171875px;
+  left: 394.7556457519531px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector101 {
+  top: 60.3182373046875px;
+  left: 382.9064636230469px;
+  width: 10px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector102 {
+  top: 60.147705078125px;
+  left: 375.61212158203125px;
+  width: 6px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector103 {
+  top: 60.1761474609375px;
+  left: 363.19793701171875px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector104 {
+  top: 60.3182373046875px;
+  left: 351.4568176269531px;
+  width: 10px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector105 {
+  top: 56.681884765625px;
+  left: 341.425048828125px;
+  width: 2px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector106 {
+  top: 56.681884765625px;
+  left: 336.4235534667969px;
+  width: 2px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector107 {
+  top: 56.227294921875px;
+  left: 331.06292724609375px;
+  width: 3px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector108 {
+  top: 60.3182373046875px;
+  left: 313.4002990722656px;
+  width: 16px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector109 {
+  top: 60.1761474609375px;
+  left: 296.8501281738281px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector110 {
+  top: 60.1761474609375px;
+  left: 284.55328369140625px;
+  width: 10px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector111 {
+  top: 60.1761474609375px;
+  left: 271.7099914550781px;
+  width: 10px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector112 {
+  top: 60.1761474609375px;
+  left: 259.83404541015625px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector113 {
+  top: 60.3182373046875px;
+  left: 248.1258544921875px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector114 {
+  top: 60.1761474609375px;
+  left: 234.74432373046875px;
+  width: 10px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector115 {
+  top: 60.1761474609375px;
+  left: 222.95379638671875px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector116 {
+  top: 60.1761474609375px;
+  left: 210.5396270751953px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector117 {
+  top: 56.681884765625px;
+  left: 206.0763702392578px;
+  width: 2px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector118 {
+  top: 60.147705078125px;
+  left: 192.30686950683594px;
+  width: 6px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector119 {
+  top: 60.1761474609375px;
+  left: 179.1929168701172px;
+  width: 10px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector120 {
+  top: 56px;
+  left: 171.53221130371094px;
+  width: 7px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector121 {
+  top: 60.1761474609375px;
+  left: 155.16213989257812px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector122 {
+  top: 60.1761474609375px;
+  left: 142.86529541015625px;
+  width: 10px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector123 {
+  top: 60.1761474609375px;
+  left: 125.08586120605469px;
+  width: 15px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector124 {
+  top: 56.227294921875px;
+  left: 119.7252197265625px;
+  width: 3px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector125 {
+  top: 57.70458984375px;
+  left: 111.46969604492188px;
+  width: 6px;
+  height: 14px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector126 {
+  top: 60.3182373046875px;
+  left: 93.86984252929688px;
+  width: 10px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector127 {
+  top: 57.70458984375px;
+  left: 86.153564453125px;
+  width: 6px;
+  height: 14px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector128 {
+  top: 56.227294921875px;
+  left: 81.75102996826172px;
+  width: 3px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector129 {
+  top: 56.681884765625px;
+  left: 77.10871124267578px;
+  width: 2px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector130 {
+  top: 56.227294921875px;
+  left: 71.7480697631836px;
+  width: 3px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector131 {
+  top: 56.681884765625px;
+  left: 59.25620651245117px;
+  width: 10px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector132 {
+  top: 60.1761474609375px;
+  left: 46.60226058959961px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector133 {
+  top: 56.681884765625px;
+  left: 42.13951873779297px;
+  width: 2px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector134 {
+  top: 56.227294921875px;
+  left: 36.77888107299805px;
+  width: 3px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector135 {
+  top: 60.1761474609375px;
+  left: 24.723360061645508px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector136 {
+  top: 60.3182373046875px;
+  left: 12.981719970703125px;
+  width: 10px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector137 {
+  top: 56.681884765625px;
+  left: 0.0001220703125px;
+  width: 13px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector138 {
+  top: 40.7840576171875px;
+  left: 525.905517578125px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector139 {
+  top: 32.1761474609375px;
+  left: 514.4453735351562px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector140 {
+  top: 32.1761474609375px;
+  left: 502.6249694824219px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector141 {
+  top: 32.1761474609375px;
+  left: 489.5110168457031px;
+  width: 10px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector142 {
+  top: 28.227294921875px;
+  left: 484.6885986328125px;
+  width: 3px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector143 {
+  top: 29.70458984375px;
+  left: 476.4330749511719px;
+  width: 6px;
+  height: 14px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector144 {
+  top: 32.1761474609375px;
+  left: 465.8713073730469px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector145 {
+  top: 32.1761474609375px;
+  left: 453.574462890625px;
+  width: 10px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector146 {
+  top: 32.3182373046875px;
+  left: 441.86627197265625px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector147 {
+  top: 32.1761474609375px;
+  left: 428.4847412109375px;
+  width: 10px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector148 {
+  top: 28.681884765625px;
+  left: 418.09381103515625px;
+  width: 2px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector149 {
+  top: 32.1761474609375px;
+  left: 405.6796569824219px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector150 {
+  top: 32.147705078125px;
+  left: 398.37603759765625px;
+  width: 6px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector151 {
+  top: 32.1761474609375px;
+  left: 385.5708312988281px;
+  width: 10px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector152 {
+  top: 32.1761474609375px;
+  left: 373.7803039550781px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector153 {
+  top: 32.1761474609375px;
+  left: 360.9750671386719px;
+  width: 10px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector154 {
+  top: 32.1761474609375px;
+  left: 348.13177490234375px;
+  width: 10px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector155 {
+  top: 32.3182373046875px;
+  left: 330.1130676269531px;
+  width: 10px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector156 {
+  top: 32.1761474609375px;
+  left: 319.0933532714844px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector157 {
+  top: 32.1761474609375px;
+  left: 306.6791687011719px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector158 {
+  top: 32.147705078125px;
+  left: 293.4479064941406px;
+  width: 6px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector159 {
+  top: 32.1761474609375px;
+  left: 280.33392333984375px;
+  width: 10px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector160 {
+  top: 32.1761474609375px;
+  left: 262.1392517089844px;
+  width: 10px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector161 {
+  top: 29.70458984375px;
+  left: 254.186279296875px;
+  width: 6px;
+  height: 14px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector162 {
+  top: 28.227294921875px;
+  left: 249.78375244140625px;
+  width: 3px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector163 {
+  top: 32.1761474609375px;
+  left: 238.62303161621094px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector164 {
+  top: 28.681884765625px;
+  left: 226.28091430664062px;
+  width: 10px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector165 {
+  top: 32.1761474609375px;
+  left: 213.23590087890625px;
+  width: 10px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector166 {
+  top: 32.3182373046875px;
+  left: 196.14340209960938px;
+  width: 16px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector167 {
+  top: 32.1761474609375px;
+  left: 178.30787658691406px;
+  width: 10px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector168 {
+  top: 28.681884765625px;
+  left: 166.39385986328125px;
+  width: 9px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector169 {
+  top: 29.70458984375px;
+  left: 157.5321807861328px;
+  width: 6px;
+  height: 14px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector170 {
+  top: 32.1761474609375px;
+  left: 139.1810760498047px;
+  width: 10px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector171 {
+  top: 32.1761474609375px;
+  left: 127.39106750488281px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector172 {
+  top: 28.227294921875px;
+  left: 122.03043365478516px;
+  width: 3px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector173 {
+  top: 29.70458984375px;
+  left: 113.77490234375px;
+  width: 6px;
+  height: 14px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector174 {
+  top: 32.1761474609375px;
+  left: 102.31832122802734px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector175 {
+  top: 32.1761474609375px;
+  left: 89.47502136230469px;
+  width: 10px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector176 {
+  top: 28.227294921875px;
+  left: 84.65312194824219px;
+  width: 3px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector177 {
+  top: 32.3182373046875px;
+  left: 72.38200378417969px;
+  width: 10px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector178 {
+  top: 32.1761474609375px;
+  left: 61.277381896972656px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector179 {
+  top: 32.1761474609375px;
+  left: 49.48737335205078px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector180 {
+  top: 28.681884765625px;
+  left: 31.107450485229492px;
+  width: 9px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector181 {
+  top: 29.70458984375px;
+  left: 22.245777130126953px;
+  width: 6px;
+  height: 14px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector182 {
+  top: 28.227294921875px;
+  left: 17.84324073791504px;
+  width: 3px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector183 {
+  top: 32.3182373046875px;
+  left: 0.17957985401153564px;
+  width: 16px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector184 {
+  top: 1.70458984375px;
+  left: 547.8328247070312px;
+  width: 6px;
+  height: 14px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector185 {
+  top: 4.147705078125px;
+  left: 540.229736328125px;
+  width: 6px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector186 {
+  top: 4.1761474609375px;
+  left: 527.11474609375px;
+  width: 10px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector187 {
+  top: 4.1761474609375px;
+  left: 514.8096313476562px;
+  width: 10px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector188 {
+  top: 4.1761474609375px;
+  left: 501.9663391113281px;
+  width: 10px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector189 {
+  top: 4.3182373046875px;
+  left: 489.7199401855469px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector190 {
+  top: 4.1761474609375px;
+  left: 478.2000732421875px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector191 {
+  top: 4.1761474609375px;
+  left: 459.97552490234375px;
+  width: 10px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector192 {
+  top: 0.681884765625px;
+  left: 446.88525390625px;
+  width: 10px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector193 {
+  top: 0.227294921875px;
+  left: 442.0628356933594px;
+  width: 3px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector194 {
+  top: 4.3182373046875px;
+  left: 429.7927551269531px;
+  width: 10px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector195 {
+  top: 4.1761474609375px;
+  left: 417.9878234863281px;
+  width: 10px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector196 {
+  top: 4.147705078125px;
+  left: 411.03411865234375px;
+  width: 6px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector197 {
+  top: 4.1761474609375px;
+  left: 398.1907958984375px;
+  width: 10px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector198 {
+  top: 4.1761474609375px;
+  left: 379.149169921875px;
+  width: 10px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector199 {
+  top: 1.70458984375px;
+  left: 371.1961975097656px;
+  width: 6px;
+  height: 14px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector200 {
+  top: 0.681884765625px;
+  left: 353.5881042480469px;
+  width: 10px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector201 {
+  top: -2.2737367544323206e-13px;
+  left: 345.5363464355469px;
+  width: 7px;
+  height: 17px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector202 {
+  top: 0.681884765625px;
+  left: 332.7619934082031px;
+  width: 11px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector203 {
+  top: 0.4830322265625px;
+  left: 320.6894836425781px;
+  width: 10px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector204 {
+  top: 4.1761474609375px;
+  left: 301.9864196777344px;
+  width: 10px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector205 {
+  top: 0.681884765625px;
+  left: 297.5231628417969px;
+  width: 2px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector206 {
+  top: 0.681884765625px;
+  left: 284.67266845703125px;
+  width: 10px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector207 {
+  top: 4.1761474609375px;
+  left: 272.0187072753906px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector208 {
+  top: 0.681884765625px;
+  left: 267.5554504394531px;
+  width: 2px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector209 {
+  top: 0.227294921875px;
+  left: 262.19482421875px;
+  width: 3px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector210 {
+  top: 4.1761474609375px;
+  left: 250.1398162841797px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector211 {
+  top: 4.3182373046875px;
+  left: 238.39869689941406px;
+  width: 10px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector212 {
+  top: 4.1761474609375px;
+  left: 227.29356384277344px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector213 {
+  top: 4.1761474609375px;
+  left: 210.3842315673828px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector214 {
+  top: 0.227294921875px;
+  left: 205.531982421875px;
+  width: 3px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector215 {
+  top: -2.2737367544323206e-13px;
+  left: 191.2911376953125px;
+  width: 7px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector216 {
+  top: -2.2737367544323206e-13px;
+  left: 183.69630432128906px;
+  width: 7px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector217 {
+  top: 4.1761474609375px;
+  left: 172.359619140625px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector218 {
+  top: 1.70458984375px;
+  left: 164.2831573486328px;
+  width: 6px;
+  height: 14px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector219 {
+  top: 4.1761474609375px;
+  left: 153.7213897705078px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector220 {
+  top: 4.1761474609375px;
+  left: 135.9733428955078px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector221 {
+  top: 4.1761474609375px;
+  left: 122.85938262939453px;
+  width: 10px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector222 {
+  top: 0.227294921875px;
+  left: 118.03748321533203px;
+  width: 3px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector223 {
+  top: 1.70458984375px;
+  left: 109.78195190429688px;
+  width: 6px;
+  height: 14px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector224 {
+  top: 4.1761474609375px;
+  left: 98.32537078857422px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector225 {
+  top: 0.681884765625px;
+  left: 93.86263275146484px;
+  width: 2px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector226 {
+  top: 4.1761474609375px;
+  left: 82.34225463867188px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector227 {
+  top: 4.1761474609375px;
+  left: 70.52239990234375px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector228 {
+  top: 4.1761474609375px;
+  left: 58.10771942138672px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector229 {
+  top: 4.147705078125px;
+  left: 50.80463409423828px;
+  width: 6px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector230 {
+  top: 1.70458984375px;
+  left: 42.189945220947266px;
+  width: 6px;
+  height: 14px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector231 {
+  top: 4.147705078125px;
+  left: 29.378543853759766px;
+  width: 6px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector232 {
+  top: 4.3182373046875px;
+  left: 17.132123947143555px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-vector233 {
+  top: 0.4830322265625px;
+  left: 0.7188339829444885px;
+  width: 14px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.homepage1-button12 {
+  gap: 10px;
+  top: 1118px;
+  left: 741px;
+  width: 250px;
+  height: 50px;
+  display: flex;
+  padding: 0 10px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6px;
+  justify-content: center;
+  background-color: rgba(255, 193, 94, 1);
+}
+ 
+.homepage1-text31 {
+  color: rgba(85, 3, 3, 1);
+  height: auto;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.homepage1-text32 {
+  top: 1233px;
+  left: 35px;
+  color: rgba(246, 223, 192, 1);
+  width: 694px;
+  height: auto;
+  position: absolute;
+  font-size: 99.88557434082031px;
+  box-shadow: 0px 6.659038066864014px 63.26085662841797px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.homepage1-text33 {
+  top: 1371px;
+  left: 53px;
+  color: rgba(246, 223, 192, 1);
+  width: 658px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.homepage1-button13 {
+  gap: 10px;
+  top: 1451px;
+  left: 50px;
+  width: 250px;
+  height: 50px;
+  display: flex;
+  padding: 0 10px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6px;
+  justify-content: center;
+  background-color: rgba(255, 193, 94, 1);
+}
+ 
+.homepage1-text34 {
+  color: rgba(85, 3, 3, 1);
+  height: auto;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.homepage1-link {
+  display: contents;
+}
+ 
+.homepage1-container2 {
+  right: 50px;
+  border: 1px solid #ffffff5c;
+  bottom: 30px;
+  display: flex;
+  z-index: 22;
+  position: fixed;
+  box-shadow: 5px 5px 10px 0px rgba(31, 31, 31, 0.4);
+  min-height: auto;
+  align-items: center;
+  padding-top: 8px;
+  padding-left: 12px;
+  border-radius: 8px;
+  padding-right: 12px;
+  padding-bottom: 8px;
+  backdrop-filter: blur(6px);
+  background-color: rgba(41, 41, 41, 0.41);
+}
+ 
+.homepage1-icon1 {
+  width: 24px;
+  margin-right: 4px;
+}
+ 
+.homepage1-text35 {
+  color: white;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+}
