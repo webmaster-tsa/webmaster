@@ -284,6 +284,13 @@ body {
   margin-bottom: 20px;
 }
 
+.footer-links a{
+  text-decoration: none;
+  /* removes underline */
+  color: #6A0909;
+  /* Red color for navigator links*/
+}
+
 .footer-logo {
   margin-top: auto; /* 👈 pushes logo to bottom */
   width: 140px;
