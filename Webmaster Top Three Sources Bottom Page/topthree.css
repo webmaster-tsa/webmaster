@@ -292,6 +292,10 @@ body {
 
 .footer-links a:hover {
   opacity: 0.8;
+  text-decoration: none;
+  /* removes underline */
+  color:#FBC52A;
+  /* Gold color for navigator links*/
 }
 
 /* Logo image */
