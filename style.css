@@ -114,3 +114,8 @@ body {
   width: 140px;
   height: auto;
 }
+.footer-links {
+  display: flex;              
+  gap: 30px;                  
+  justify-content: flex-end;  
+}

@@ -179,6 +179,7 @@
     font-weight: 500;
 
     cursor: pointer;
+    margin-bottom: 30px;
 }
 
 .submit-btn:hover {
