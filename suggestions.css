@@ -162,3 +162,25 @@
     color: #F5DADA;
     font-weight: 400;
 }
+.submit-btn {
+    display: block;
+    margin: 40px auto 0;
+    margin-left: 70px;
+    width: 240px;
+    height: 60px;
+    background-color: #FFC15E;
+    color: #550303;
+
+    border: none;
+    border-radius: 8px;
+
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+
+    cursor: pointer;
+}
+
+.submit-btn:hover {
+    opacity: 0.9;
+}
