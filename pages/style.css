@@ -1,0 +1,237 @@
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background-color: #6A0909;
+  color: #F6DFC0;
+}
+
+/* Header wrapper */
+.site-header {
+
+  background-color: #4E0B04;
+  height: 89.37px;
+  display: flex;
+  justify-content: center; /* Centers content so width = 1440px */
+  padding-left: 40px;
+    padding-right: 40px;
+}
+
+/* Inner content with fixed width */
+.header-content {
+   width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Website name */
+.logo {
+  color: #FFC15E;
+  font-size: 28px;
+  font-weight: 600;
+}
+
+/* Navigation links */
+.nav-links a {
+  color: #FFC15E;
+  text-decoration: none;
+  margin-left: 30px;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.nav-links a:hover {
+  opacity: 0.8;
+}
+
+/* Footer */
+.site-footer {
+  background-color: #F6DEB3;
+  padding: 40px 40px;
+  display: flex;
+  justify-content: center;
+  
+}
+
+.footer-content {
+  width: 1440px;
+  display: flex;
+  justify-content: space-between;
+  color: #4E0B04;
+  font-family: 'Inter', sans-serif;
+}
+
+/* Left side */
+.footer-left p {
+  margin: 10px 0;
+  font-size: 16px;
+}
+
+.contact-badge {
+  display: inline-block;
+  background-color: #FFC15E;
+  color: #4E0B04;
+  padding: 6px 12px;
+  border-radius: 8px;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+.footer-created {
+  margin-top: 20px;
+  line-height: 1.5;
+}
+
+.footer-copyright {
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+.footer-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  height: 100%;
+}
+
+.footer-links {
+  margin-bottom: 20px;
+}
+
+.footer-logo {
+  margin-top: auto; /* 👈 pushes logo to bottom */
+  width: 140px;
+  height: auto;
+}
+
+.footer-links a:hover {
+  opacity: 0.8;
+}
+
+/* Logo image */
+.footer-logo {
+  width: 140px;
+  height: auto;
+}
+
+.image-container {
+    width: 400px;
+    height: 200px;  
+}
+
+.page-marginleft {
+    margin-left: 10vw;
+}
+
+.section-title p {
+    text-align: center;
+    font-size: 25px;
+}
+
+
+
+
+.content-block {
+  display: flex; 
+  flex-direction: column; 
+  align-items:flex-start;
+}
+
+.content-card {
+  width: 350px;
+  background-color: #FFC15E;
+  border-radius: 16px;
+  padding: 20px;
+  border: 1px solid #000;
+
+}
+
+.aboutus-banner {
+  height: 80vh; 
+  width: 100%;
+  position: relative; 
+  overflow: hidden; 
+
+
+  background-image: url('images/aboutus-banner.jpg');
+  background-size: cover;      /* Ensures the image covers the entire area (might crop edges) */
+  background-position: center; /* Centers the image */
+  background-repeat: no-repeat;
+  
+  display: flex;             /* Use Flexbox for easy centering of children */
+  flex-direction: column;    /* Stack children vertically */
+  justify-content: center;   /* Vertically centers content */
+  align-items: center;       /* Horizontally centers content */
+  text-align: center;
+}
+
+.aboutus-banner h1 {
+  position: absolute; 
+  top: 20px;          
+  right: 20px;  
+  font-size: 40px;      
+}
+
+.fontcolor-alternate {
+    color: #ceae84;
+}
+
+.aboutus-header{
+    background: 
+    linear-gradient(rgb(78, 11, 4, 0.35), rgb(78, 11, 4, 0.35))
+    ,url('images/aboutus-title.jpg');
+    background-repeat: no-repeat;   
+    background-size: cover;
+    background-position: center;
+    color: #F6DFC0;
+    width: 90%;
+    border: 1px solid #000;
+    border-radius: 16px;
+    margin: 0 auto; 
+}
+
+.aboutus-header h1
+{
+    padding-left: 30px;
+    font-size: 40px;
+}
+
+.aboutus-header p
+{
+    width: 45%;
+    padding-left: 30px;
+    font-size: 18px;
+}
+
+.grid-container-twocolumns {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* Creates two equal-width columns */
+  grid-gap: 20px; /* Adds space between items */
+  margin: 0 auto; 
+  width: 80%;
+  align-items: center;
+}
+
+
+.grid-column {
+  align-self: center;
+  margin: 0 auto;
+}
+
+.vertical-line {
+  /* Sets the line's thickness */
+  width: 2px;
+  /* Sets the line's length */
+  height: 800px;
+  /* Sets the line's color */
+  background-color: #ffffff;
+  /* Adds horizontal space around the line */
+  margin: 0 15px;
+}
+
+.content-title {
+    text-align: center;
+    font-size: 25px;
+    padding-left: 10vw;
+}
