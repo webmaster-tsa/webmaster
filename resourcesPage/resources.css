@@ -12,6 +12,122 @@ body {
   box-sizing: border-box;
 }
 
+/* Header wrapper */
+.site-header {
+  background-color: #4E0B04;
+  height: 89.37px;
+  display: flex;
+  justify-content: center; /* Centers content so width = 1440px */
+}
+
+/* Inner content with fixed width */
+.header-content {
+  width: 1440px;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Website name */
+.logo {
+  color: #FFC15E;
+  font-size: 28px;
+  font-weight: 600;
+}
+
+/* Navigation links */
+.nav-links a {
+  color: #FFC15E;
+  text-decoration: none;
+  margin-left: 30px;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.nav-links a:hover {
+  opacity: 0.8;
+}
+
+/* Footer */
+.site-footer {
+  background-color: #F6DEB3;
+  padding: 40px 0;
+  display: flex;
+  justify-content: center;
+}
+
+.footer-content {
+  width: 1440px;
+  display: flex;
+  justify-content: space-between;
+  color: #4E0B04;
+  font-family: 'Inter', sans-serif;
+}
+
+/* Left side */
+.footer-left p {
+  margin: 10px 0;
+  font-size: 16px;
+}
+
+.contact-badge {
+  display: inline-block;
+  background-color: #FFC15E;
+  color: #4E0B04;
+  padding: 6px 12px;
+  border-radius: 8px;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+.footer-created {
+  margin-top: 20px;
+  line-height: 1.5;
+}
+
+.footer-copyright {
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+.footer-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  height: 100%;
+}
+
+
+.footer-links a {
+  color: #6A0909;
+  text-decoration: none;
+  margin-bottom: 20px;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.footer-logo {
+  margin-top: auto; /* 👈 pushes logo to bottom */
+  width: 140px;
+  height: auto;
+}
+
+.footer-links a:hover {
+  opacity: 0.8;
+}
+
+/* Logo image */
+.footer-logo {
+  width: 140px;
+  height: auto;
+}
+.footer-links {
+  display: flex;              
+  gap: 30px;                  
+  justify-content: flex-end;  
+}
+
 /* ========================= */
 /* HEADER + Subheading */
 /* ========================= */
@@ -117,4 +233,125 @@ body {
   width: 100%;
   max-width: 1200px; /* keeps container aligned with header */
   box-sizing: border-box;
+}
+
+
+/* Samina's Code for the header*/
+
+
+/* Header wrapper */
+.site-header {
+  background-color: #4E0B04;
+  height: 89.37px;
+  display: flex;
+  justify-content: center; /* Centers content so width = 1440px */
+}
+
+/* Inner content with fixed width */
+.header-content {
+  width: 1440px;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Website name */
+.logo {
+  color: #FFC15E;
+  font-size: 28px;
+  font-weight: 600;
+}
+
+/* Navigation links */
+.nav-links a {
+  color: #FFC15E;
+  text-decoration: none;
+  margin-left: 30px;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.nav-links a:hover {
+  opacity: 0.8;
+}
+
+/* Footer */
+.site-footer {
+  background-color: #F6DEB3;
+  padding: 40px 0;
+  display: flex;
+  justify-content: center;
+}
+
+.footer-content {
+  width: 1440px;
+  display: flex;
+  justify-content: space-between;
+  color: #4E0B04;
+  font-family: 'Inter', sans-serif;
+}
+
+/* Left side */
+.footer-left p {
+  margin: 10px 0;
+  font-size: 16px;
+}
+
+.contact-badge {
+  display: inline-block;
+  background-color: #FFC15E;
+  color: #4E0B04;
+  padding: 6px 12px;
+  border-radius: 8px;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+.footer-created {
+  margin-top: 20px;
+  line-height: 1.5;
+}
+
+.footer-copyright {
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+.footer-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  height: 100%;
+}
+
+
+.footer-links a {
+  color: #6A0909;
+  text-decoration: none;
+  margin-bottom: 20px;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.footer-logo {
+  margin-top: auto; /* 👈 pushes logo to bottom */
+  width: 140px;
+  height: auto;
+}
+
+.footer-links a:hover {
+  opacity: 0.8;
+}
+
+/* Logo image */
+.footer-logo {
+  width: 140px;
+  height: auto;
+}
+
+.footer-links {
+  display: flex;              
+  gap: 30px;                  
+  justify-content: flex-end;  
 }
