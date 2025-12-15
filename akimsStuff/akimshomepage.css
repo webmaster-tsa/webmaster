@@ -366,7 +366,7 @@ body {
   overflow: hidden;
   background: 
     linear-gradient(rgba(150, 0, 0, 0.35), rgba(150, 0, 0, 0.35)),
-    url('akimsStuff/homeimage.jpg') center center/cover no-repeat;
+    url('akimsStuff/middle-age-friends-having-fun.jpg') center center/cover no-repeat;
   display: flex;
   align-items: flex-start;
 }
