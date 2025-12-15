@@ -1,0 +1,120 @@
+/* ========================= */
+/* PAGE SETUP */
+/* ========================= */
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background-color: #6A0909; /* dark red background */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 20px 40px 20px; /* padding for left/right and bottom */
+  box-sizing: border-box;
+}
+
+/* ========================= */
+/* HEADER + Subheading */
+/* ========================= */
+.page-header {
+  text-align: left;
+  color: #F6DFC0; /* header text color */
+  font-size: 72px; /* bigger font size */
+  font-weight: 800;
+  background-color: #6A0909; /* matches body background */
+  padding: 40px 20px; /* top/bottom + horizontal padding */
+  width: 100%;
+  max-width: 1200px; /* prevents header from stretching too wide */
+  box-sizing: border-box;
+  margin-bottom: 40px;
+}
+
+/* Subheading */
+.page-subheader {
+  text-align: left;
+  color: #F6DFC0; /* same as main header */
+  font-size: 36px; /* smaller than main header */
+  font-weight: 800;
+  background-color: #6A0909; /* matches body background */
+  width: 100%;
+  max-width: 1200px; /* same width as header */
+  padding: 10px 20px; /* spacing around text */
+  box-sizing: border-box;
+  margin-bottom: 20px; /* space below subheader before resource cards */
+}
+
+
+/* ========================= */
+/* RESOURCE CARD (IMAGE + TEXT) */
+/* ========================= */
+.resource-card {
+  position: relative;
+  width: 100%;
+  max-width: 320px; /* limits card size */
+  border-radius: 16px;
+  overflow: hidden;
+  color: #6A0909;
+
+  /* Yellow rectangle background */
+  background-image: url('backgroundRectangle.png'); 
+  background-size: cover;
+  background-position: center;
+
+  margin: 0 10px 40px 10px; /* spacing between cards */
+  box-sizing: border-box;
+}
+
+/* Text inside card */
+.resource-card-content {
+  position: relative;
+  width: 100%;
+  padding: 20px; 
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Resource Title */
+.resource-title {
+  font-size: 20px;
+  font-weight: 800;
+  margin: 0 0 12px 0; /* consistent spacing below title */
+}
+
+/* Sections inside card */
+.resource-section {
+  margin-bottom: 12px; /* spacing between sections */
+}
+
+.resource-section h4 {
+  font-size: 14px;
+  font-weight: 800;
+  margin: 0 0 4px 0; /* top/bottom spacing */
+}
+
+.resource-section p {
+  font-size: 14px;
+  line-height: 1.4;
+  margin: 0;
+  font-weight: 400; /* normal weight text */
+}
+
+/* Resource link */
+.resource-link {
+  display: inline-block;
+  margin-top: auto; /* pushes link to bottom if needed */
+  font-weight: 800;
+  text-decoration: none;
+  color: #6A0909;
+}
+
+/* Container for all resources */
+.resources-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* center horizontally */
+  gap: 20px; /* space between cards */
+  padding: 0 10px; /* padding so cards don’t touch screen edges */
+  width: 100%;
+  max-width: 1200px; /* keeps container aligned with header */
+  box-sizing: border-box;
+}
