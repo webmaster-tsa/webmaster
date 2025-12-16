@@ -272,18 +272,16 @@ body {
   max-height: 100%;
 }
 
-/* ========================= */
-/* FOOTER */
-/* ========================= */
+/* Footer */
 .site-footer {
   background-color: #F6DEB3;
-  padding: 40px 0;
+  padding: 5vh 3vw;
   display: flex;
   justify-content: center;
 }
 
 .footer-content {
-  width: 1440px;
+  width: 100%;
   display: flex;
   justify-content: space-between;
   color: #4E0B04;
@@ -294,6 +292,7 @@ body {
 .footer-left p {
   margin: 10px 0;
   font-size: 16px;
+  padding-left: 0;
 }
 
 .contact-badge {
@@ -316,22 +315,21 @@ body {
   font-size: 14px;
 }
 
+/*right side*/
 .footer-right {
   display: flex;
   flex-direction: column;
   align-items: flex-end;
   height: 100%;
-}
-
-.footer-links {
-  margin-bottom: 20px;
+  justify-content: space-between;
+  gap: 1vw;
 }
 
 .footer-links a {
+  margin-bottom: 20px;
   text-decoration: none;
-  /* removes underline */
-  color:#4E0B04;
-  /* Red color for navigator links*/
+  color: #4E0B04;
+  margin-left: 2vw;
 }
 
 .footer-logo {
