@@ -45,7 +45,7 @@
 .suggestMoreResource{
     background: 
     linear-gradient(rgb(78, 11, 4, 0.35), rgb(78, 11, 4, 0.35))
-    ,url('images/india.jpg');
+    ,url('/images/india.jpg');
     background-repeat: no-repeat;   
     background-size: cover;
     background-position: center;

@@ -162,7 +162,7 @@ body {
   overflow: hidden; 
 
 
-  background-image: url('images/aboutus-banner.jpg');
+  background-image: url('/images/aboutus-banner.jpg');
   background-size: cover;      /* Ensures the image covers the entire area (might crop edges) */
   background-position: center; /* Centers the image */
   background-repeat: no-repeat;
@@ -188,7 +188,7 @@ body {
 .aboutus-header{
     background: 
     linear-gradient(rgb(78, 11, 4, 0.35), rgb(78, 11, 4, 0.35))
-    ,url('images/aboutus-title.jpg');
+    ,url('/images/aboutus-title.jpg');
     background-repeat: no-repeat;   
     background-size: cover;
     background-position: center;

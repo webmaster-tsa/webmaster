@@ -180,7 +180,7 @@ body {
   color: #6A0909;
 
   /* Yellow rectangle background */
-  background-image: url('backgroundRectangle.png'); 
+  background-image: url('/images/backgroundRectangle.png'); 
   background-size: cover;
   background-position: center;
 
