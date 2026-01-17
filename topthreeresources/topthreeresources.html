@@ -20,24 +20,20 @@
 
 <!--Everything visible on webpage-->
 <body>
-
-  <!--===================HEADER========================-->
+<!--HEADER -->
   <header class="site-header">
-    <!--wrapper for header content-->
-      <div class="header-content">
+      <div class="navbar__container">
 
-      <!-- Left side: Website name/Logo Text (replace with logo?) -->
-        <a href="/index.html" class="logo">Pulse Asia</a>    
+      <!-- Left side: Website name -->
+        <a href="/index.html" id="navbar__logo">PulseAsia</a>    
         
-        <!--Navigation Menu (small words)-->
-        <nav class="nav-links">
-          <a href="/index.html">Home</a>
-          <a href="../aboutus/aboutus.html">About Us</a>
-          <a href="../resourcesPage/resources.html">Resource Hub</a>
-          <a href="../topthreeresources/topthreeresources.html">Top Three Resources</a>
-          <a href="../suggestions/suggestions.html">Suggestions</a>
-        </nav>
-
+        <ul class="navbar__menu">
+          <li><a href="/index.html">Home</a></li>
+          <li><a href="../aboutus/aboutus.html">About Us</a></li>
+          <li><a href="../resourcesPage/resources.html">Resource Hub</a></li>
+          <li><a href="../topthreeresources/topthreeresources.html">Top Three Resources</a></li>
+          <li><a href="../suggestions/suggestions.html">Suggestions</a></li>
+        </ul>
       </div>
     </header>
 
@@ -245,7 +241,7 @@
 
     <!-- Left column -->
     <div class="footer-left">
-      <span class="contact-badge">Contact Us:</span>
+      <a href="mailto:moodyxoreo@gmail.com" class="contact-btn">Contact Us:</a>
 
       <p>Email: info@pulseasia.com</p>
       <p>Phone: 425-471-4324</p>

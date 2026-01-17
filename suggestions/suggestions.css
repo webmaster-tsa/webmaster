@@ -1,3 +1,9 @@
+html, body {
+  margin: 0; 
+  padding: 0; 
+  width: 100%
+}
+
 /* Page background */
 .suggestions-page {
     width: 100%;
@@ -20,49 +26,66 @@
     max-width: 1100px;
     background-color: #6A0909;
     
-    font-family: 'Inter', sans-serif;
+    font-family: 'Kumb Sans', sans-serif;
     padding: 60px 80px;
-    margin:0px;
+    margin:0 px;
      
     
 }
 
 /* Header wrapper */
+
 .site-header {
-  background-color: #4E0B04;
+  background: #4E0B04;
   height: 89.37px;
   display: flex;
-  justify-content: center; /* Centers content so width = 1440px */
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2rem;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  font-family: 'Kumb Sans', sans-serif;
 }
 
-/* Inner content with fixed width */
-.header-content {
-  width: 1440px;
-  height: 100%;
+/* Inner navbar container */
+.site-header .navbar__container {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  height: 80px;
+  width: 100%;
+  max-width: 2000px;
+  margin: 0 auto;
+  padding: 0 50px;
 }
 
-/* Website name */
-.logo {
-  color: #FFC15E;
-  font-size: 28px;
-  font-weight: 600;
-  text-decoration: none;
-}
-
-/* Navigation links */
-.nav-links a {
+/* Logo */
+#navbar__logo {
   color: #FFC15E;
   text-decoration: none;
-  margin-left: 30px;
-  font-size: 18px;
-  font-weight: 400;
+  font-weight: bolder;
+  font-size: 2rem;
 }
 
-.nav-links a:hover {
-  opacity: 0.8;
+/* Menu */
+.navbar__menu {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  gap: 2rem;
+}
+
+/* Links */
+.navbar__menu a {
+  color: #FBC52A;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.navbar__menu a:hover {
+  color: #af8a23;
+  transition: all 0.3s ease;
 }
 
 
@@ -120,7 +143,7 @@
     background: transparent;
     border: none;
     outline: none;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Kumb Sans', sans-serif;
     font-size: 18px;
     color: #F5DADA;
 }
@@ -153,7 +176,7 @@
     border: none;
     outline: none;
 
-    font-family: 'Inter', sans-serif;
+    font-family: 'Kumb Sans', sans-serif;
     font-size: 18px;
     color: #F5DADA;
 }
@@ -163,31 +186,37 @@
     color: #F5DADA;
     font-weight: 400;
 }
-.submit-btn {
-    display: block;
-    margin: 40px auto 0;
-    margin-left: 70px;
-    width: 240px;
-    height: 60px;
-    background-color: #FFC15E;
-    color: #550303;
+.submit-btn,
+.hero-banner-btn {
+  background-color: #FFC15E;
+  color: #550303;
+  border: none;
+  border-radius: 8px;
 
-    border: none;
-    border-radius: 8px;
+  font-family: 'Kumb Sans', sans-serif;
+  font-size: 18px;
+  font-weight: 500;
 
-    font-family: 'Inter', sans-serif;
-    font-size: 18px;
-    font-weight: 500;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.10);
 
-    cursor: pointer;
-    margin-bottom: 30px;
+  width: 240px;          
+  height: 60px;          
+  display: inline-block;
+  margin: 40px 0 30px 70px;
+  text-align: center;
+  line-height: 60px;     /* vertically centers text */
+
+  text-decoration: none;  
 }
 
-.submit-btn:hover {
-    opacity: 0.9;
+.submit-btn:hover,
+.hero-banner-btn:hover {
+  background-color: #E19C4D;
 }
 
 /* Footer */
+
 .site-footer {
   background-color: #F6DEB3;
   padding: 5vh 3vw;
@@ -210,14 +239,34 @@
   padding-left: 0;
 }
 
-.contact-badge {
-  display: inline-block;
-  background-color: #FFC15E;
-  color: #4E0B04;
-  padding: 6px 12px;
+.contact-btn {
+  background: #FFC15E;
+  color: #550303;
+  border: 0 !important;
+  outline: 0 !important;
+  text-decoration: none !important;
+  -webkit-tap-highlight-color: transparent;
+
   border-radius: 8px;
-  font-weight: 600;
-  margin-bottom: 12px;
+  padding: 14px 36px;
+  font-size: 1.1rem;
+  font-weight: 500;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.10);
+  margin-top: auto;
+  align-self: flex-start;
+  transition: background 0.2s;
+  display: inline-block;
+}
+
+.contact-btn:hover,
+.contact-btn:focus,
+.contact-btn:active {
+  outline: none;
+  text-decoration: none;
+  transform: scale(1.05);
+  background: #E19C4D; 
+  transition: transform 0.3s ease, background 0.3s ease;
 }
 
 .footer-created {
